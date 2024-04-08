@@ -56,10 +56,10 @@ Añada la siguiente línea al archivo para programar la ejecución del script to
 0 2 * * 0 /ruta/archivo/reporte_ventas.sh /ruta/archivo/datos_ventas.csv
 ```
 
-Asegúrese de reemplazar /ruta/archivo/reporte_ventas.sh y /ruta/archivo/datos_ventas.csv con las rutas absolutas del script y datos de ventas, respectivamente.
+Asegúrese de reemplazar `/ruta/archivo/reporte_ventas.sh` y `/ruta/archivo/datos_ventas.csv` con las rutas absolutas del script y datos de ventas, respectivamente.
 
 
-<span style="color:lightskyblue;font-weight: 800;">INTEGRANTES DEL GRUPO</span></br>
-<li><span style="color:gold;font-weight: 500;">DSNP158023 FLORES RIVAS, DOUGLAS OMAR</span></li>
-<li><span style="color:gold;font-weight: 500;">DNSP117823 JOYA VASQUEZ, ERICK ALFREDO</span></li>
-<li><span style="color:gold;font-weight: 500;">DSNP021823 TURCIOS ALVAREZ, LUIS ANTONIO</span></li>
+## INTEGRANTES DEL GRUPO
+#### - DSNP158023 FLORES RIVAS, DOUGLAS OMAR
+#### - DNSP117823 JOYA VASQUEZ, ERICK ALFREDO
+#### - DSNP021823 TURCIOS ALVAREZ, LUIS ANTONIO
